@@ -76,7 +76,7 @@ function LoginScreen() {
           </button>
         </form>
         <div className="py-2 text-center">
-          <a href="/register" className="text-gray-700 hover:opacity-75 underline">Register</a>
+          <a href="#register" className="text-gray-700 hover:opacity-75 underline" onClick={history("/register")}>Register</a>
         </div>
       </div>
     </div>
