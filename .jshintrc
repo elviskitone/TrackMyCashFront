@@ -1,0 +1,7 @@
+{
+  "esversion": 8,
+  "globals": {
+    "globalVariable": true
+  },
+  "maxlen": 80
+}
